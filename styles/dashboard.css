@@ -1,0 +1,76 @@
+.sales,
+.products,
+.prices,
+.credit,
+.sreport,
+.bill,
+.suppliers,
+.preport,
+.stock {
+  width: 300px;
+  height: 100px;
+  background: #eeeeee;
+  margin: 20px;
+  border-radius: 10px;
+  border: 1px solid #2b3f54;
+  box-shadow: 0 5px 5px 2px #484848;
+}
+
+#a:hover,
+#b:hover,
+#c:hover,
+#d:hover,
+#e:hover,
+#f:hover,
+#g:hover,
+#i:hover,
+#p:hover {
+  color: red !important;
+}
+.dash-items {
+  margin: 10px;
+}
+
+.dash-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.center {
+  font-size: 3em;
+  text-align: center;
+  width: 100%;
+  margin-top: 15px;
+  color: #0fafef;
+}
+.recas {
+  width: 100%;
+}
+img {
+  width: 100%;
+}
+#sidebar-menu,
+#main-cont {
+  background: #0fafef;
+}
+.calender {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  bottom: 93.5%;
+}
+.center-new {
+  font-size: 2em;
+  color: white;
+}
+.mydate {
+  font-size: 1.5em;
+}
